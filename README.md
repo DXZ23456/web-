@@ -1,9 +1,6 @@
 # 增强版网页压力测试工具/Enhanced Web Stress Testing Tool
 
-<img src="https://img.shields.io/badge/禁止用于违法！-red" />
-<img src="https://img.shields.io/badge/禁止用于违法！-red" />
-<img src="https://img.shields.io/badge/禁止用于违法！-red" />
-<img src="https://img.shields.io/badge/禁止用于违法！-red" />
+<img src="https://img.shields.io/badge/禁止用于违法！-red" /><img src="https://img.shields.io/badge/禁止用于违法！-red" /><img src="https://img.shields.io/badge/禁止用于违法！-red" /><img src="https://img.shields.io/badge/禁止用于违法！-red" />
 
 ## 项目简介 / Project Introduction
 
