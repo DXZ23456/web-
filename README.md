@@ -85,4 +85,4 @@ This is a powerful web stress testing tool specifically designed to test the per
 
 # 请遵守当地法律法规！
 
-# 采用GPL3！
+# 采用GPL-3！
